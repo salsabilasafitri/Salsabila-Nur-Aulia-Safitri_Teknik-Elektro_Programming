@@ -45,7 +45,6 @@ int main() {
     
       /* input adalah kecepatan tangensial maksimum roller */
       /* std::cin >> input */
-    
   
       /* std::cout << jarak << " " << kecepatan tangensial << std::endl */
     return 0;
